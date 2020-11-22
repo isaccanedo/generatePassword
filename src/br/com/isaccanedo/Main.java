@@ -2,6 +2,10 @@ package br.com.isaccanedo;
 
 import java.util.Random;
 
+/**
+ * @author Isac Canedo
+ */
+
 public class Main {
     public static String generatePassword() {
         Random r[] = new Random[8];
